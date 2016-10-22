@@ -1,0 +1,21 @@
+.projectname {
+  font-size: 17px;
+}
+
+.jumbo {
+  margin-top: 70px;
+}
+
+.divider {
+  border-bottom: 1px #C9CED1 solid;
+  margin: 10px 0 20px 0;
+  padding-top: 10px;
+}
+
+.padding {
+  padding: 20px;
+}
+
+.padding2 {
+  padding: 10px;
+}
